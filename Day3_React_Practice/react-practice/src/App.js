@@ -4,14 +4,16 @@ import Card from "./components/Card";
 import Welcome from "./components/Welcome";
 import Form from "./components/Form";
 import UseEffectHook from "./components/UseEffectHook";
+import NewsApp from "./components/NewsApp";
 
 function App() {
   return (
     <div>
-      <Welcome />
+      {/* <Welcome />
       <Card />
       <Form />
-      <UseEffectHook />
+      <UseEffectHook /> */}
+      <NewsApp />
     </div>
   );
 }
