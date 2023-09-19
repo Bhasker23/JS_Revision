@@ -1,0 +1,40 @@
+.SingleProduct {
+  border: 2px solid #ccc;
+  border-radius: 8px;
+}
+
+.productImg {
+  width: 100%;
+}
+
+.productInfo {
+  padding: 20px;
+}
+
+.cartInfo {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  align-items: center;
+  padding-block: 8px;
+  box-sizing: border-box;
+}
+
+.productTitle {
+  align-items: center;
+  box-sizing: border-box;
+  margin-bottom: 15px;
+  font-size: 15px;
+}
+.button {
+  padding: 15px;
+  width: 10rex;
+  height: 1.5rem;
+  border-radius: 25%;
+  background-color: teal;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 1.5rem;
+}
