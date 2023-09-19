@@ -7,3 +7,4 @@ further I will expand more concepts of react and will create frontend part for v
 *React introduction 
 Learning Hooks
 learning useEffect
+learn redux 
